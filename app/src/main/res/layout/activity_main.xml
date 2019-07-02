@@ -117,7 +117,7 @@
         app:layout_constraintTop_toBottomOf="@+id/pbD" />
 
     <ProgressBar
-        android:id="@+id/pBE"
+        android:id="@+id/pbE"
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -138,7 +138,7 @@
         android:layout_marginTop="8dp"
         android:text="TextView"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/pBE" />
+        app:layout_constraintTop_toBottomOf="@+id/pbE" />
 
     <ProgressBar
         android:id="@+id/pbF"
@@ -159,7 +159,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:text="TextView"
+        android:text="hardness"
         app:layout_constraintStart_toEndOf="@+id/pbAtext1"
         app:layout_constraintTop_toTopOf="@+id/pbAtext1" />
 
@@ -169,7 +169,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:text="TextView"
+        android:text="longevity"
         app:layout_constraintStart_toEndOf="@+id/pbBtext1"
         app:layout_constraintTop_toTopOf="@+id/pbBtext1" />
 
@@ -179,7 +179,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:text="TextView"
+        android:text="stability"
         app:layout_constraintStart_toEndOf="@+id/pbCtext1"
         app:layout_constraintTop_toTopOf="@+id/pbCtext1" />
 
@@ -189,7 +189,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:text="TextView"
+        android:text="conditioning"
         app:layout_constraintStart_toEndOf="@+id/pbDtext1"
         app:layout_constraintTop_toTopOf="@+id/pbDtext1" />
 
@@ -199,7 +199,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:text="TextView"
+        android:text="cleansing"
         app:layout_constraintStart_toEndOf="@+id/pbEtext1"
         app:layout_constraintTop_toTopOf="@+id/pbEtext1" />
 
@@ -209,7 +209,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:text="TextView"
+        android:text="bubbly"
         app:layout_constraintStart_toEndOf="@+id/pbFtext1"
         app:layout_constraintTop_toTopOf="@+id/pbFtext1" />
 
@@ -230,7 +230,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
-        android:text="TextView"
+        android:text="lard"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/sb1text1" />
 
@@ -282,7 +282,7 @@
 
     <SeekBar
         android:id="@+id/sb3"
-        android:layout_width="352dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
@@ -321,7 +321,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
-        android:text="TextView"
+        android:text="olive"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/sb2text1" />
 
@@ -331,7 +331,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
-        android:text="TextView"
+        android:text="rice bran"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/sb3text1" />
 
@@ -341,7 +341,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
-        android:text="TextView"
+        android:text="sweet almond"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/sb4text1" />
 
