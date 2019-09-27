@@ -1,4 +1,4 @@
-package com.polydactyl.realtimegraphics;
+package com.polydactyldesign.soapdesign;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.polydactyl.realtimegraphics;
+package com.polydactyldesign.soapdesign;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

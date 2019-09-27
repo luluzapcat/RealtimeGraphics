@@ -1,0 +1,209 @@
+{
+  "project_info": {
+    "project_number": "695724684798",
+    "firebase_url": "https://fir-demo3-a9899.firebaseio.com",
+    "project_id": "fir-demo3-a9899",
+    "storage_bucket": "fir-demo3-a9899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695724684798:android:4ec42b3754c4918b",
+        "android_client_info": {
+          "package_name": "com.gonzalonm.viewmodelfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ-ipLKaHxssH3J-sUdmrS2QCkE9YOU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695724684798:android:fe259c660aa9b5c5",
+        "android_client_info": {
+          "package_name": "com.learning.diana.cardviewfirebaselearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695724684798-l44v44fu7i386sfu21r6hdo864u6vuk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.diana.cardviewfirebaselearn",
+            "certificate_hash": "80bd08baab20dbf1b20e0e6a43fd2c216f5ee457"
+          }
+        },
+        {
+          "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ-ipLKaHxssH3J-sUdmrS2QCkE9YOU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695724684798:android:45a2e8554ecdac9d",
+        "android_client_info": {
+          "package_name": "com.learning.diana.firebasedemo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695724684798-78qkgdm3np22c95bn7neuq42us6pngog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.diana.firebasedemo3",
+            "certificate_hash": "80bd08baab20dbf1b20e0e6a43fd2c216f5ee457"
+          }
+        },
+        {
+          "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ-ipLKaHxssH3J-sUdmrS2QCkE9YOU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695724684798:android:ae4e49bf8dfc4667",
+        "android_client_info": {
+          "package_name": "com.learning.diana.songarranger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695724684798-6o1hcq9r6urkvskn2kl4orb3so0pnge3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.diana.songarranger",
+            "certificate_hash": "80bd08baab20dbf1b20e0e6a43fd2c216f5ee457"
+          }
+        },
+        {
+          "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ-ipLKaHxssH3J-sUdmrS2QCkE9YOU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695724684798:android:e74af9dcd249025b",
+        "android_client_info": {
+          "package_name": "com.polydactyl.diana.listgliss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ-ipLKaHxssH3J-sUdmrS2QCkE9YOU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695724684798:android:382550ac806b6266",
+        "android_client_info": {
+          "package_name": "com.polydactyldesign.soapdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ-ipLKaHxssH3J-sUdmrS2QCkE9YOU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695724684798-78krcmp6a32g2edegiam952cmqr3db2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
